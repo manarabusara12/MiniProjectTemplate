@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.py": [
+      {
+        "id": "68199d85-2267-4725-98a3-d5d198bf1f40",
+        "line": 57,
+        "version": 1394,
+        "index": 2014
+      },
+      {
+        "id": "5eeda4a9-798a-4859-bcc7-77550f4d690e",
+        "line": 57,
+        "version": 1394,
+        "index": 2015
+      }
+    ],
+    "templates/login.html": [
+      {
+        "id": "c3672694-c1c3-4d12-874e-ec075b9f6d14",
+        "line": 19,
+        "version": 34,
+        "index": 0
+      }
+    ]
+  }
+}
